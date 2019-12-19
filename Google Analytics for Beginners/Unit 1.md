@@ -1,5 +1,7 @@
-Welcome to Google Analytics for Beginners
-Introduction
+## Welcome to Google Analytics for Beginners
+
+### Introduction
+
 Hi, I’m Justin Cutroni. And I’m Krista Seiden. We’re Analytics Advocates at Google. Welcome to Google Analytics for Beginners. In this course we’ll take you through a basic understanding of Google Analytics.
 
 We’ll show you how to create and implement an account, set up views and filters, read basic reports, set up dashboards, perform basic analysis, and set up goals and campaign tracking.
